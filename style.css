@@ -1,0 +1,47 @@
+* {
+    font-family: sans-serif
+}
+body {
+    display: flex;
+    justify-content: center;
+}
+.principal  {
+    border: 3px solid grey;
+    border-radius: 4px;
+    width: 500px;
+
+}
+.header {
+    background-color: teal;
+    height: 80px;
+}
+
+.card-body {
+    padding: 10px 30px;
+}
+.image-user {
+    width: 60px;
+    border: 2px solid grey;
+    border-radius: 50%;
+    position: relative;
+    left: 15px;
+    top: 40px;
+    
+}
+.image-map, .gear-image{
+    width: 15px;
+    margin-right: 10px;
+}
+
+.settings {
+    color:steelblue;
+}
+
+h1 {
+    margin-bottom: 0px;
+}
+
+h3 {
+    margin-top: 10px;
+}
+
